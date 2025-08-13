@@ -14,7 +14,10 @@ body{
     --background-color:#EFEFEF;
     --color-one:#F7D9C4;
     --color-two:#000;
-    --color-text:#767676;
+    --color-note:#908d8d;
+    --color-text:#808080;
+    --button-color-1:#1B2026;
+    --button-color-2:#F7D9C4;
 }
 .container{
     max-width: 1140px;
@@ -26,6 +29,7 @@ body{
 
 p,h1,h2,h3,h4,h5,h6{
     margin-top: 0;
+    margin-bottom: 32px;
 }
 
 .container-fluid{
